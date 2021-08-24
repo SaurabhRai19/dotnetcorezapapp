@@ -1,0 +1,14 @@
+C:\Project-Data\Technical\CoreLoginEfDbFirst\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Project-Data\Technical\CoreLoginEfDbFirst\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Project-Data\Technical\CoreLoginEfDbFirst\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Project-Data\Technical\CoreLoginEfDbFirst\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\bin\Debug\netcoreapp2.0\CoreLoginEfDbFirst.deps.json
+C:\Project-Data\Technical\CoreLoginEfDbFirst\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\bin\Debug\netcoreapp2.0\CoreLoginEfDbFirst.runtimeconfig.json
+C:\Project-Data\Technical\CoreLoginEfDbFirst\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\bin\Debug\netcoreapp2.0\CoreLoginEfDbFirst.runtimeconfig.dev.json
+C:\Project-Data\Technical\CoreLoginEfDbFirst\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\bin\Debug\netcoreapp2.0\CoreLoginEfDbFirst.dll
+C:\Project-Data\Technical\CoreLoginEfDbFirst\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\bin\Debug\netcoreapp2.0\CoreLoginEfDbFirst.pdb
+C:\Project-Data\Technical\CoreLoginEfDbFirst\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\obj\Debug\netcoreapp2.0\CoreLoginEfDbFirst.AssemblyInfoInputs.cache
+C:\Project-Data\Technical\CoreLoginEfDbFirst\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\obj\Debug\netcoreapp2.0\CoreLoginEfDbFirst.AssemblyInfo.cs
+C:\Project-Data\Technical\CoreLoginEfDbFirst\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\obj\Debug\netcoreapp2.0\CoreLoginEfDbFirst.csproj.CoreCompileInputs.cache
+C:\Project-Data\Technical\CoreLoginEfDbFirst\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\obj\Debug\netcoreapp2.0\CoreLoginEfDbFirst.dll
+C:\Project-Data\Technical\CoreLoginEfDbFirst\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\obj\Debug\netcoreapp2.0\CoreLoginEfDbFirst.pdb
+C:\Project-Data\Technical\CoreLoginEfDbFirst\CoreLoginEfDbFirst\src\CoreLoginEfDbFirst\obj\Debug\netcoreapp2.0\CoreLoginEfDbFirst.genruntimeconfig.cache
